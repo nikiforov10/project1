@@ -54,3 +54,4 @@ def walk_directory(path):
 
 recreate_file('example')
 walk_directory('/Users/anna/PycharmProjects/pythonProject')
+#hotfics
