@@ -136,5 +136,5 @@ while not game_over:
 
     time.sleep(0.1)
 
-
+#я закончил
 screen.mainloop()
