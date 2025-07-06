@@ -122,4 +122,5 @@ class Student(Person):
 
   def display_info(self):
     super().display_info()
-    print(f'age:{self.__age} name{self.__name} grade{self.__grade}')
+    print(f'grade{self.__grade}')
+
